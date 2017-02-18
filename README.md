@@ -1,10 +1,2 @@
-# An experiment in Love2D: Platformer using ECS (Entity Component System)
-
-Things done:
-- A rudimentary platforming system
-
-To do:
-- check and update player.onGround
-- entity management (Entity.spawn(), Entity.destroy(), ...)
-- enemies!
-- shooting
+# love2d-jam
+Something for the 2017 Love2D Jam on itch.io! (https://itch.io/jam/love2d-jam)
